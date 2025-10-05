@@ -1,4 +1,6 @@
 # Java-Assignment-Sales-Store-Software
+NIKHIL SN 717824L136
+compile and run the program on eclipse IDE
 sales store software , built as java assignment 2 , it has the basic functions that a sales software should need
 Assignment 1: Inventory and Billing System – Specification Document
 Problem Statement:
